@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Francisco Rangel</h1>
+<h1 align="center">¡Hola! 👋 Soy Francisco Rangel (Bruno)</h1>
 <p align="center">
-  <b>Desarrollador Fullstack con enfoque en apps móviles</b> 🚀<br>
-  Amante de Flutter, el backend con TypeScript, y construir experiencias sólidas.
+  <b>Desarrollador Fullstack con enfoque en Python</b> 🚀<br>
+  Programador de Flutter, y construir experiencias sólidas.
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 ### 🧠 Sobre mí
 
-- 🔭 Actualmente trabajando en **MixknetApp**, una app Flutter con pasarela de pago Openpay.
+- 🔭 Actualmente trabajando en **MixknetApp**, una app Flutter.
 - ⚡ Me apasiona combinar **interfaces intuitivas** con **lógica sólida de backend**.
-- 🔍 Me gusta explorar temas como la inteligencia artificial, la biología y los misterios del universo.
-- 🤘 Metalhead, gamer y cinéfilo de ciencia ficción.
+- 🔍 Me gusta explorar temas como la inteligencia artificial, ciencia de datos y los misterios del universo.
+- 🤘 Metalhead (Realmente escucho casi de todo xD), gamer de hueso negro y cinéfilo de ciencia ficción y horror cósmico.
 
 ---
 
@@ -24,10 +24,9 @@
 #### Lenguajes y Frameworks
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
 
 #### Bases de datos y servicios
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -54,7 +53,7 @@
 ### 📫 Contacto
 
 - 💌 brunocoronado49@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/franciscorangeldev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jfrc117)
 - 🌐 [Mi portafolio](https://brunocoronado49.github.io)
 
 ---
