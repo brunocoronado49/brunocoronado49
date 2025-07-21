@@ -57,7 +57,7 @@
 
 ### 📫 Contact
 
-- 📧 brunocoronado49@gmail.com  
+- 📧 francorangelcoronado@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jfrc117)  
 - 🌐 [My Portfolio](https://brunocoronado49.github.io)
 
